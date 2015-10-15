@@ -1,1 +1,10 @@
 C:\Users\Bogdan\YandexDisk\Development\Listings\[ITVDN]\C#\Image2ASCII\Image2ASCII\bin\Debug\Image2ASCII.exe.config
+C:\Users\Bogdan\YandexDisk\Development\Listings\[ITVDN]\C#\Image2ASCII\bin\Debug\Image2ASCII.exe.config
+C:\Users\Bogdan\YandexDisk\Development\Listings\[ITVDN]\C#\Image2ASCII\obj\Debug\Image2ASCII.csprojResolveAssemblyReference.cache
+C:\Users\Bogdan\YandexDisk\Development\Listings\[ITVDN]\C#\Image2ASCII\obj\Debug\Image2ASCII.Form1.resources
+C:\Users\Bogdan\YandexDisk\Development\Listings\[ITVDN]\C#\Image2ASCII\obj\Debug\Image2ASCII.Properties.Resources.resources
+C:\Users\Bogdan\YandexDisk\Development\Listings\[ITVDN]\C#\Image2ASCII\obj\Debug\Image2ASCII.csproj.GenerateResource.Cache
+C:\Users\Bogdan\YandexDisk\Development\Listings\[ITVDN]\C#\Image2ASCII\bin\Debug\Image2ASCII.exe
+C:\Users\Bogdan\YandexDisk\Development\Listings\[ITVDN]\C#\Image2ASCII\bin\Debug\Image2ASCII.pdb
+C:\Users\Bogdan\YandexDisk\Development\Listings\[ITVDN]\C#\Image2ASCII\obj\Debug\Image2ASCII.exe
+C:\Users\Bogdan\YandexDisk\Development\Listings\[ITVDN]\C#\Image2ASCII\obj\Debug\Image2ASCII.pdb
